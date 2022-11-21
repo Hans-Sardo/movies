@@ -57,7 +57,6 @@ const Parameters = () => {
         service: service,
       },
       headers: {
-        "X-RapidAPI-Key": "7219b65d0amsh4a5f59317631b3cp16fb5djsn569b886f7cc4",
         "X-RapidAPI-Host": "streaming-availability.p.rapidapi.com",
       },
     };
